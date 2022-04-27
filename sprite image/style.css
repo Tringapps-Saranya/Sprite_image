@@ -22,27 +22,9 @@
     width: 120px;
     background: url("social medias.png") 630px 130px;
 }
-#twit{
+.text{
     font-weight: bold;
     font-size: 32px;
     padding: 5px;
     font-family: sans-serif;
-}
-#insta{
-    font-weight: bold;
-    font-size: 32px;
-    padding: 5px;
-    font-family: sans-serif;
-}
-#ll{
-    font-weight: bold;
-    font-size: 32px;
-    padding: 5px;
-    font-family: sans-serif;
-}
-#fb{
-    font-weight: bold;
-    font-size: 32px;
-    padding: 5px;
-    font-family: sans-serif;
-}
+}    
