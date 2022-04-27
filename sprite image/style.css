@@ -4,8 +4,7 @@
 .twitter {
     height: 120px;
     width: 120px;
-    background-position: 0 130px;
-    background: url("social medias.png");
+    background: url("social medias.png")  0 130px;
 }
 .instagram {
     height: 120px;
