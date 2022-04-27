@@ -1,0 +1,48 @@
+.ulist{
+    list-style-type: none;
+}
+.twitter {
+    height: 120px;
+    width: 120px;
+    background-position: 0 130px;
+    background: url("social medias.png");
+}
+.instagram {
+    height: 120px;
+    width: 120px;
+    background: url("social medias.png") 380px 130px;
+}
+.linkedin {
+    height: 120px;
+    width: 120px;
+    background: url("social medias.png") 760px 130px;
+}
+.facebook {
+    height: 120px;
+    width: 120px;
+    background: url("social medias.png") 630px 130px;
+}
+#twit{
+    font-weight: bold;
+    font-size: 32px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+#insta{
+    font-weight: bold;
+    font-size: 32px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+#ll{
+    font-weight: bold;
+    font-size: 32px;
+    padding: 5px;
+    font-family: sans-serif;
+}
+#fb{
+    font-weight: bold;
+    font-size: 32px;
+    padding: 5px;
+    font-family: sans-serif;
+}
